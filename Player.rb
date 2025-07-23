@@ -1,5 +1,3 @@
-require 'Question'
-
 class Player
   attr_accessor :life, :answer
 
